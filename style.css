@@ -1,7 +1,7 @@
 body {
 	background-color: #2E3A47;
-	margin: 200px;
-	border: 100px;
+	margin: 400px;
+	border: 10px coral;
 } 
 h1, h3 {
     color: #288EFC;
@@ -34,5 +34,5 @@ h4 {
 }
 p{
 	height: 10px;
-	width: 250px;
+	width: 600px;
 }
