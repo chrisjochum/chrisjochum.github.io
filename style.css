@@ -37,4 +37,8 @@ h4 {
 p{
 	height: 10px;
 	width: 600px;
+	text-align: center;
+}
+.date{
+	color: #F84523;
 }
