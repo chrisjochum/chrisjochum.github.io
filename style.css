@@ -44,7 +44,7 @@ p{
 	color: #F84523;
 }
 #image{
-	image-align: left;
+	align-content: left;
 	height: 432px;
 	width: 324px;
 	padding: 5px;
