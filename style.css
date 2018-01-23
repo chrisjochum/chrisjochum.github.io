@@ -1,5 +1,5 @@
 body {
-	background-color: Grey;
+	background-color: #2E3A47;
 	margin: 100px;
 	border: 100px;
 } 
@@ -33,6 +33,6 @@ h4 {
  text-align: right;
 }
 p{
-	height: 35px;
+	height: 10px;
 	width: 250px;
 }
