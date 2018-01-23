@@ -33,7 +33,8 @@ h4 {
 	margin-bottom: -10px;
 }
 .content{
- text-align: right;
+ 	text-align: right;
+	image-align: left;
 }
 p{
 	height: 10px;
@@ -47,4 +48,6 @@ p{
 	align: left;
 	height: 432px;
 	width: 324px;
+	padding: 5px;
+	border: solid 5px Black;
 }
